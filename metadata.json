@@ -1,0 +1,6 @@
+{
+  "name": "Clínica Dra. Paula Fischer - Loja de Protocolos e Treinamentos",
+  "description": "Loja virtual oficial da Clínica Dra. Paula Fischer: protocolos estéticos faciais, corporais e íntimos, mentorias e imersões profissionais em formato de produto.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
